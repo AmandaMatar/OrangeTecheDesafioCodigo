@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31793da3-98f0-43b3-9403-d796bab3aa61" name="Changes" comment="" />
+    <list default="true" id="31793da3-98f0-43b3-9403-d796bab3aa61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OrangeTecheDesafioCodigo" beforeDir="false" afterPath="$PROJECT_DIR$/OrangeTecheDesafioCodigo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrangeTecheDesafioCodigo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OrangeTecheDesafioCodigo/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OrangeTecheDesafioCodigo" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
