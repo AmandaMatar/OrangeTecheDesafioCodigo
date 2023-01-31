@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31793da3-98f0-43b3-9403-d796bab3aa61" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/OrangeTecheDesafioCodigo" beforeDir="false" afterPath="$PROJECT_DIR$/OrangeTecheDesafioCodigo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OrangeTecheDesafioCodigo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/OrangeTecheDesafioCodigo/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="31793da3-98f0-43b3-9403-d796bab3aa61" name="Changes" comment="alterações" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/OrangeTecheDesafioCodigo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,6 +37,11 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amand\Desktop\DIO\MyDioProjectOrangeTech\OrangeTecheDesafioCodigo\.idea" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.MesadaSobrinho">
     <configuration name="DownloadPacotes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="desafios.DownloadPacotes" />
@@ -119,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674583765264</updated>
     </task>
+    <task id="LOCAL-00001" summary="alterações">
+      <created>1675190478020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675190478020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,5 +141,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="alterações" />
+    <option name="LAST_COMMIT_MESSAGE" value="alterações" />
   </component>
 </project>
