@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31793da3-98f0-43b3-9403-d796bab3aa61" name="Changes" comment="alterações" />
+    <list default="true" id="31793da3-98f0-43b3-9403-d796bab3aa61" name="Changes" comment="alterando git ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675190478020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="alterando git ignore">
+      <created>1675190637493</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675190637493</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="alterações" />
-    <option name="LAST_COMMIT_MESSAGE" value="alterações" />
+    <MESSAGE value="alterando git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="alterando git ignore" />
   </component>
 </project>
